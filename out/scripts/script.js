@@ -20,9 +20,15 @@ $(document).ready(function() {
 	$(".navbutton").hover(function() {
 		$(this).animate({opacity:0.5},1000)	
 	}, function() {
-		$(this).animate({opacity:1.0},500)
+		$(this).animate({opacity:1.0},800)
 	})
 
+	$(".logodiv").css("opacity",1.0)
+	$(".logodiv").hover(function() {
+		$(this).animate({opacity:0.5},1000)	
+	}, function() {
+		$(this).animate({opacity:1.0},800)
+	})
 
 
 })
