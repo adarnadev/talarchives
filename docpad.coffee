@@ -8,6 +8,8 @@ docpadConfig = {
             @getCollection("html").findAllLive({isPage:true})
         posts: ->
         	@getCollection("html").findAllLive({isPost:true})
+        featured: ->
+        	@getCollection("html").findAllLive({isFeat:true})
 
 }
 
