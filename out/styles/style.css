@@ -118,6 +118,14 @@ li{
 	width: 100%;
 	overflow: auto;
 }
+.content2{
+	background-image: url("/images/underc.jpg");
+	background-position:top center;
+	height:100%;
+	width: 100%;
+	overflow: auto;
+
+}
 .post1{
 	border: 1px solid white;
 	margin-top: 5px;
@@ -136,4 +144,3 @@ li{
 	padding:15px;
 	text-indent: 30px;
 }
-
