@@ -1,5 +1,6 @@
 <html>
 <head>
+    <meta name="apple-itunes-app" content="app-id=593049585, affiliate-data=myAffiliateData, app-argument=myURL">
     <title>Talarchives.net | <%= @document.title %></title>
     <%- @getBlock("meta").toHTML() %>
     <%- @getBlock("styles").add(["/styles/style.css"]).toHTML() %>
