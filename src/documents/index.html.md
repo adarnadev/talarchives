@@ -4,6 +4,11 @@ layout: "default"
 isPage: true
 ---
 
+![Cover](/images/jscover.jpg)
+
+#####[Janus Silang at ang Tiyanak ng Tabon](http://adarna.com.ph) by Edgar Samar 
+#####[Janus Silang on Facebook](https://www.facebook.com/pages/Janus-S%C3%ADlang-Series/666069456769325?fref=ts)
+
 TALA
 ====
 * * *
