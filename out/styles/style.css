@@ -128,6 +128,10 @@ li{
 	overflow: auto;
 
 }
+.content img{
+	display:block;
+	margin:0 auto;
+}
 .post1{
 	border: 1px solid white;
 	margin-top: 5px;

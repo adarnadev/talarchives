@@ -1,7 +1,8 @@
 ---
-title: "This Website is Under Construction"
+title: "Janus Silang at ang Tiyanak ng Tabon"
 layout: "default"
 isPage: true
+seo: "TALArchives.net is a website based on the PC game, Terra Anima Legion of Anitos (TALA) Online. TALA Online is a role-playing game in the Janus Silang series written by Edgar Calabia Samar."
 ---
 
 ![Cover](/images/jscover.jpg)
